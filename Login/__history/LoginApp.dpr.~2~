@@ -1,0 +1,14 @@
+program LoginApp;
+
+uses
+  Vcl.Forms,
+  UFrmPrincipal in 'UFrmPrincipal.pas' {FrmLoginPrincipal};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFrmLoginPrincipal, FrmLoginPrincipal);
+  Application.Run;
+end.

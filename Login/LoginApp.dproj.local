@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/20 22:32:40.000.064,=C:\Users\Cledson Paranhos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/27 20:54:15.000.642,=C:\Users\Cledson Paranhos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/27 20:54:56.000.868,C:\Users\Cledson Paranhos\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Facil\ws-CursoDelphi\Login\UFrmPrincipal.pas</Transaction>
+    <Transaction>2022/06/27 20:54:56.000.868,C:\Users\Cledson Paranhos\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Facil\ws-CursoDelphi\Login\UFrmPrincipal.dfm</Transaction>
+    <Transaction>2022/06/27 20:55:20.000.282,C:\Users\Cledson Paranhos\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Facil\ws-CursoDelphi\Login\LoginApp.dproj</Transaction>
+    <Transaction>2022/06/28 12:09:01.032,=C:\Facil\ws-CursoDelphi\Login\Unit1.pas</Transaction>
+    <Transaction>2022/06/28 12:12:15.028,C:\Facil\ws-CursoDelphi\Login\UFrmLoginRealizado.dfm=C:\Facil\ws-CursoDelphi\Login\Unit1.dfm</Transaction>
+    <Transaction>2022/06/28 12:12:15.028,C:\Facil\ws-CursoDelphi\Login\UFrmLoginRealizado.pas=C:\Facil\ws-CursoDelphi\Login\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
